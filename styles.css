@@ -1,0 +1,18 @@
+#wrapper{
+
+    background-color: #40e0d0;
+}
+.card{
+    height:200px;
+    width: 300px;
+    margin-left: 20px;
+}
+.images{
+    margin-left: 20px;
+  
+}
+#tab{
+    
+    margin-left: 3%;
+    margin-right: 3%;
+}
